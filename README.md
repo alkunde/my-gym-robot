@@ -1,6 +1,6 @@
 # Automação de Testes
 ### _com Robot Framework + Appium_
-
+![Article](https://raw.githubusercontent.com/alkunde/my-gym-robot/master/cover.png)
 
 Este projeto visa automatizar os testes de um aplicativo de treinos para academia desenvolvido em React Native. Os testes serão executados em dispositivos Android e iOS, utilizando o Robot Framework + Appium.
 
