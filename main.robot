@@ -1,6 +1,5 @@
 *** Settings ***
 Library     AppiumLibrary
-Library    XML
 
 *** Test Cases ***
 Open App
