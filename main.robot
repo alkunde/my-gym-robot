@@ -34,5 +34,4 @@ Abrir a tela de cadastro de usuário
     Wait Until Page Contains Element    xpath=//*[contains(@text, 'Senha')]
     Wait Until Page Contains Element    xpath=//*[contains(@text, 'Confirmar senha')]
     Wait Until Page Contains Element    xpath=//*[contains(@text, 'Criar e acessar')]
-    Scroll    10    20
     Wait Until Page Contains Element    xpath=//*[contains(@text, 'Voltar para o login')]
