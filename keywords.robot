@@ -9,6 +9,8 @@ Abrir aplicativo
     ...                 deviceName=emulator-5554
     ...                 app=${EXECDIR}/app/app-android.apk
 
+    Wait Until Page Contains Element    xpath=//*[contains(@text, 'Acesse a conta')]
+
 Fechar aplicativo
     Capture Page Screenshot
     Close Application
